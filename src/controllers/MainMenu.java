@@ -158,7 +158,7 @@ public class MainMenu {
 
             case "7":
                 System.out.println("Goodbye and have a nice day!");
-                break;
+                 System.exit(0);
 
             default:
                 System.out.println("Invalid input received, please try again");
